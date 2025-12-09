@@ -27,7 +27,7 @@ To get the latest version:
    - Documents
 6. **Click** **Create Backup**.  
 7. **Done!** Your backup is complete.
-8. **Eject Your Device.
+8. **Eject** Your Device.
 
 ---
 
